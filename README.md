@@ -14,7 +14,7 @@ Este proyecto para una página web para una clínica ficticia.
 ## Ejecución
 1. Clona el repositorio:
   ```bash
-  git clone https://github.com/FernandaAvello/proyecto-clinica3.git
+  git clone https://github.com/FernandaAvello/Taller-2.git
   ```
 2. Navega al directorio del proyecto:
 3. Doble click en archivo `index.html`
